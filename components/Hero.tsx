@@ -30,7 +30,7 @@ export default function Hero() {
 
         {/* Role */}
         <h2 className="mt-6 text-2xl md:text-3xl font-bold text-slate-300">
-          AEM Content Author | Full Stack Developer | CMS Specialist
+          Web Content Management Specialist | AEM & Sitefinity CMS | Full Stack Developer
         </h2>
 
         {/* Description */}
