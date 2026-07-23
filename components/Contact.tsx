@@ -75,7 +75,7 @@ export default function Contact() {
               <div>
                 <p className="text-cyan-400 font-semibold">💼 Role</p>
                 <p className="text-gray-300">
-                  AEM Content Author | Full Stack Developer | CMS Specialist
+                  Web Content Management Specialist | AEM & Sitefinity CMS | Full Stack Developer
                 </p>
               </div>
 

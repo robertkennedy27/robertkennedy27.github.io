@@ -30,9 +30,7 @@ export default function About() {
           </h2>
 
           <p className="text-gray-300 leading-8 text-lg">
-              I'm an AEM Content Author, Full Stack Developer, and CMS Specialist with 3+ years of experience in enterprise web content management. 
-              I have hands-on experience with Adobe Experience Manager (AEM) and Sitefinity CMS, creating and managing enterprise websites, content authoring, responsive web pages, component configuration, digital asset management, website publishing, and SEO.
-              I also have experience with .NET, SQL, JavaScript, and modern web technologies, enabling me to deliver high-quality digital experiences while collaborating effectively with cross-functional teams
+              I'm a Web Content Management Specialist and Full Stack Developer with 4+ years of combined experience, including 3+ years of professional experience and 1 year of full-stack development experience as an intern. I specialize in Adobe Experience Manager (AEM) and Sitefinity CMS, with hands-on experience in enterprise website management, content authoring, responsive web development, component configuration, digital asset management, SEO, and website publishing. I also have experience with .NET, SQL, JavaScript, and modern web technologies, enabling me to deliver scalable, high-quality digital experiences while collaborating effectively with cross-functional teams.
           </p>
 
           <p className="text-gray-400 leading-8 mt-6">

@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Robert Kennedy | AEM Content Author | Full Stack Developer | CMS Specialist",
+  title: "Robert Kennedy | Web Content Management Specialist | Full Stack Developer",
   description: "Professional portfolio of Robert Kennedy showcasing AEM Content Authoring, Full Stack Development, CMS expertise, React, Next.js, .NET, SQL, JavaScript, SEO and enterprise web solutions.",
 };
 

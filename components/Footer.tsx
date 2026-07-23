@@ -8,7 +8,7 @@ export default function Footer() {
         </h2>
 
         <p className="mt-1 text-sm text-gray-400">
-          AEM Content Author | Full Stack Developer | CMS Specialist
+          Web Content Management Specialist | AEM & Sitefinity CMS | Full Stack Developer
         </p>
 
         <div className="mt-4 flex flex-wrap items-center justify-center gap-5 text-sm text-gray-400">
