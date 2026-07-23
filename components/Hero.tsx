@@ -35,9 +35,7 @@ export default function Hero() {
 
         {/* Description */}
         <p className="mx-auto mt-8 max-w-3xl text-lg leading-8 text-slate-400">
-            Building enterprise digital experiences through Adobe Experience Manager (AEM), 
-            Full Stack Development, and modern CMS solutions. Passionate about creating scalable, 
-            high-performance, and user-centric web applications that make a lasting impact.
+            Building enterprise digital experiences using Adobe Experience Manager (AEM), Sitefinity CMS, and full-stack technologies. Experienced in web content management, digital asset management (DAM), SEO optimization, and developing scalable web solutions.
         </p>
 
         {/* Buttons */}
